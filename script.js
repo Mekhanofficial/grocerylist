@@ -5,7 +5,7 @@
     { name: "butter", price: 1800 }
   ];
 
-  // Render grocery list
+  // refresh grocery list
   function refreshCart() {
     const list = document.getElementById("list");
     list.innerHTML = "";
