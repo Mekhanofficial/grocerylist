@@ -1,8 +1,8 @@
  // Default grocery items
   let groceryItems = [
-    { name: "Bread", price: 500 },
-    { name: "Milk", price: 1200 },
-    { name: "Butter", price: 800 }
+    { name: "plantain", price: 200 },
+    { name: "chicken", price: 4200 },
+    { name: "butter", price: 1800 }
   ];
 
   // Render grocery list
